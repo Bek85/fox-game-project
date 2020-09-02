@@ -1,0 +1,23 @@
+{
+  "name": "fox_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bek85/fox-game-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bek85/fox-game-project/issues"
+  },
+  "homepage": "https://github.com/Bek85/fox-game-project#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
