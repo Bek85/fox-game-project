@@ -1,0 +1,10 @@
+[33mb385591[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m Add new states of the app in gameState.js
+[33m4fb4881[m[33m ([m[1;31morigin/master[m[33m)[m Add some interactivity to UI buttons
+[33mac08b81[m Some changes in HTML markup and build UI with CSS
+[33ma7d850a[m Create HTML markup with predefined classnames fos
+[33m78d07df[m Create gameState object to hold current state and a method to keep track of state changes
+[33m3adee22[m Project initialization with init.js
+[33mc2f6803[m configurations for eslint, prettier, code editor
+[33ma8c9cbd[m Update .gitignore and package.json
+[33mde6d01a[m add parcel-bundler for dev and prod purposes
+[33m6d2b0e9[m Git initialized and source files added
