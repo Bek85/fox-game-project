@@ -81,22 +81,25 @@ body {
 }
 
 .modal {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  background-color: blueviolet;
-  color: #fff;
-  padding: 25px;
-  font-size: 20px;
-  font-weight: bold;
-  border-radius: 12px;
+  &-inner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: blueviolet;
+    color: #fff;
+    padding: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 12px;
+    text-align: center;
 
-  &:empty {
-    display: none;
+    &:empty {
+      display: none;
+    }
   }
 
-  &-inner:empty {
+  &:empty {
     display: none;
   }
 }
